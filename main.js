@@ -12,6 +12,8 @@
 // @require      https://www.gstatic.com/firebasejs/9.22.2/firebase-auth-compat.js
 // @require      https://www.gstatic.com/firebasejs/9.22.2/firebase-firestore-compat.js
 // @icon         https://github.com/mrlolua19/liquid-star-logo/blob/main/liquidstar.png?raw=true
+// @updateURL    https://raw.githubusercontent.com/mrlolua19/liquid-star-logo/refs/heads/main/main.js
+// @downloadURL    https://raw.githubusercontent.com/mrlolua19/liquid-star-logo/refs/heads/main/main.js
 // @grant        none
 // @connect      localhost
 // ==/UserScript==
